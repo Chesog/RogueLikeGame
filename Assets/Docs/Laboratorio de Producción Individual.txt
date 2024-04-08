@@ -1,0 +1,11 @@
+Juego a Relizar
+
+Estilo de Combate : Brawler Combat : Batman Arkham Style
+Estilo de Terreno : Generacion procedural 
+	Terreno tipo mundo abierto como risk of rain 
+	
+----------Inspiraciones----------
+
+https://www.youtube.com/watch?v=ozbVCOb_RQU
+https://www.youtube.com/watch?v=fIwV54qcGqY
+https://www.youtube.com/watch?v=vFvwyu_ZKfU
